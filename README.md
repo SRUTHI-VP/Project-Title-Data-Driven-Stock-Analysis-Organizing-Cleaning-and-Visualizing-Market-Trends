@@ -1,4 +1,4 @@
-# Data-Driven-Stock-Analysis-Organizing-Cleaning-and-Visualizing-Market-Trends
+# Data Driven Stock Analysis Organizing Cleaning and Visualizing Market Trends
 The Stock Market Analysis Dashboard is an interactive, data‑driven analytics application built using Python, Streamlit, Pandas, and Seaborn/Matplotlib.
 It provides a complete workflow for exploring stock performance, sector trends, and yearly returns using cleaned OHLCV datasets and sector‑mapping files.
 This project demonstrates strong skills in:
