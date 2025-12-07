@@ -11,9 +11,11 @@ This project demonstrates strong skills in:
 The dashboard is designed for analysts, students, and anyone interested in understanding market behavior through clear, intuitive visuals.
 
 🚀 What This Dashboard Can Do
+
 ✅ 1. Yearly Return Analysis
 Calculates yearly returns for each stock using first and last closing prices of the year.
 Includes sortable tables and visual summaries.
+
 ✅ 2. Sector‑wise Performance
 Classifies each stock into its sector using a dedicated mapping file.
 Displays:
@@ -21,12 +23,14 @@ Displays:
 - Sector‑wise ranking
 - Performance bar charts
 - Support for all 21 NSE sectors
+  
 ✅ 3. Stock Trend Viewer
 Explore individual stock trends with:
 - Monthly price movement
 - OHLC charts
 - Volume analysis
 - Clean, readable line charts
+  
 ✅ 4. Clean Data Pipeline
 - Extracts trading symbols from messy sector files
 - Handles missing sectors gracefully
